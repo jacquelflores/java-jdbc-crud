@@ -16,6 +16,8 @@ Aplicación de consola desarrollada en Java utilizando JDBC y MySQL para la gest
 * Crear pedidos
 * Listar pedidos
 * Buscar pedidos por usuario
+* Actualizar Pedido
+* Eliminar Pedido
 * Manejo de relaciones entre tablas
 * Validaciones básicas
 * Manejo de excepciones
